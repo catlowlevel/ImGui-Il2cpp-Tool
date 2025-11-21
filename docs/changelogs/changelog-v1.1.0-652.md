@@ -1,0 +1,2 @@
+- Caller: Replace 'Repeat' with 'Call Count' for clarity
+- Patcher: Added class selection for method redirection
