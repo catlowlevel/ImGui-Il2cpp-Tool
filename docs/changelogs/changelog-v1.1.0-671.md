@@ -1,0 +1,6 @@
+- Inspector: Fixed imgui conflicting ID
+- Misc: Added `Inspect` button to static fields
+- Misc: Check if update is available
+- Tracer: Added option to disable overlay logs for specific method
+- Input: Added filter input for enum value selector
+- Tracer: Added option to capture 'this' instance of traced method
